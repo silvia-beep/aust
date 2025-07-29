@@ -1,0 +1,24 @@
+.author-profile {
+  max-width: 400px;
+  margin: 60px auto;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #0001;
+  padding: 32px;
+  text-align: center;
+}
+.author-profile h2 {
+  margin-bottom: 12px;
+}
+.author-profile p {
+  color: #555;
+  margin-bottom: 20px;
+}
+.author-profile a {
+  color: #1976d2;
+  text-decoration: none;
+  font-weight: 500;
+}
+.author-profile a:hover {
+  text-decoration: underline;
+}
